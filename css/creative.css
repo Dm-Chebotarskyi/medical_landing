@@ -310,7 +310,7 @@ header .header-content .header-content-inner p {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: #222222;
+  color: #f5f6f8;
   background-color: #1e27FF;
   border-color: #1e27FF;
 }
